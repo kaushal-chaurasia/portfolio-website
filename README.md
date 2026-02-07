@@ -36,4 +36,33 @@ The portfolio is fully responsive, visually modern, and includes a working conta
 ---
 
 ## 📂 Project Structure
+📈 Future Improvements
+
+Add dark/light theme toggle
+
+Add backend with Spring Boot / FastAPI
+
+Store contact form responses in database
+
+Add blog section
+
+🙋‍♂️ About Me
+
+I am a final-year B.Tech student actively seeking entry-level / internship roles in:
+
+Full Stack Development
+
+Software Development
+
+Machine Learning
+
+📍 Location: Lucknow, India
+
+📬 Connect With Me
+
+Email: kaushalchaurasia1625@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/kaushal-chaurasia-b6a609233/
+
+GitHub: https://github.com/kaushal-chaurasia
 
