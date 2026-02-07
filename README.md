@@ -98,8 +98,6 @@ The portfolio includes a **fully working contact form** implemented using **Emai
 
 ## 📸 Preview
 
-*(Add a screenshot of your portfolio homepage and place it in the `images/` folder)*
-
 ```md
 ![Portfolio Preview](images/preview.png)
 
