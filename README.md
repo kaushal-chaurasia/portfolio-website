@@ -1,42 +1,57 @@
 # 🌐 Personal Portfolio Website
 
-This is my personal portfolio website showcasing my skills, projects, experience, and achievements as a **Full Stack Developer** and **Machine Learning Enthusiast**.
+This repository contains my **Personal Portfolio Website**, designed and developed to showcase my skills, projects, experience, and achievements as a **Full Stack Developer** and **Machine Learning Enthusiast**.
 
-The portfolio is fully responsive, visually modern, and includes a working contact form.
+The portfolio is built with a modern UI, smooth animations, and a fully functional contact form. It serves as a central place to highlight my technical journey, real-world projects, and professional profile.
 
----
+--------------------------------------------------------------
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://YOUR_USERNAME.github.io/portfolio-website/  
-💻 **GitHub Repository:** https://github.com/YOUR_USERNAME/portfolio-website
+🔗 **Live Website:** https://kaushal-chaurasia.github.io/portfolio-website/ 
+💻 **GitHub Repository:** https://github.com/kaushal-chaurasia/portfolio-website
 
----
+----------------------------------------------------------------
 
 ## ✨ Features
 
-- Responsive modern UI (Desktop & Mobile)
-- Smooth scrolling and animations
-- Typing text animation
-- Skills progress indicators
-- Projects showcase section
-- **Working contact form using EmailJS**
-- Resume download option
-- Social media integration
+- Fully responsive design (Desktop, Tablet, Mobile)
+- Modern dark-themed UI with glowing effects
+- Smooth scrolling and section navigation
+- Typing text animation for dynamic introduction
+- Skills section with animated progress indicators
+- Project showcase with external links
+- **Working Contact Form integrated using EmailJS**
+- Resume download button
+- Social media and coding profile links
 
----
+--------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Libraries:** Typed.js, Boxicons
-- **Email Service:** EmailJS
-- **Deployment:** GitHub Pages / Netlify
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
----
+### Libraries & Tools
+- Typed.js (typing animation)
+- Boxicons (icons)
+- EmailJS (contact form email service)
+
+### Deployment
+- GitHub Pages / Netlify
+----------------------------------------------------------------------
 
 ## 📂 Project Structure
-📈 Future Improvements
+portfolio-website/
+│── index.html
+│── stylesheet.css
+│── main.js
+│── images/
+│── README.md
+------------------------------------------------------------------
+## 📈 Future Improvements
 
 Add dark/light theme toggle
 
@@ -46,7 +61,8 @@ Store contact form responses in database
 
 Add blog section
 
-🙋‍♂️ About Me
+----------------------------------------------------------
+## 🙋‍♂️ About Me
 
 I am a final-year B.Tech student actively seeking entry-level / internship roles in:
 
@@ -65,4 +81,26 @@ Email: kaushalchaurasia1625@gmail.com
 LinkedIn: https://www.linkedin.com/in/kaushal-chaurasia-b6a609233/
 
 GitHub: https://github.com/kaushal-chaurasia
+
+------------------------------------------------------------
+
+## 📧 Contact Form Functionality
+
+The portfolio includes a **fully working contact form** implemented using **EmailJS**, allowing visitors to send messages directly to my email without the need for a backend server.
+
+### Contact Form Features:
+- Client-side validation
+- Secure email delivery using EmailJS
+- Reply-to functionality (directly reply to the sender)
+- User-friendly success and failure feedback
+
+---------------------------------------------------------------
+
+## 📸 Preview
+
+*(Add a screenshot of your portfolio homepage and place it in the `images/` folder)*
+
+```md
+![Portfolio Preview](images/preview.png)
+
 
