@@ -1,0 +1,39 @@
+# 🌐 Personal Portfolio Website
+
+This is my personal portfolio website showcasing my skills, projects, experience, and achievements as a **Full Stack Developer** and **Machine Learning Enthusiast**.
+
+The portfolio is fully responsive, visually modern, and includes a working contact form.
+
+---
+
+## 🚀 Live Demo
+
+🔗 **Live Website:** https://YOUR_USERNAME.github.io/portfolio-website/  
+💻 **GitHub Repository:** https://github.com/YOUR_USERNAME/portfolio-website
+
+---
+
+## ✨ Features
+
+- Responsive modern UI (Desktop & Mobile)
+- Smooth scrolling and animations
+- Typing text animation
+- Skills progress indicators
+- Projects showcase section
+- **Working contact form using EmailJS**
+- Resume download option
+- Social media integration
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Libraries:** Typed.js, Boxicons
+- **Email Service:** EmailJS
+- **Deployment:** GitHub Pages / Netlify
+
+---
+
+## 📂 Project Structure
+
